@@ -1,4 +1,4 @@
-# Single-Shot-HDR-Imaging-with-Multi-scale-Network
+# Single-Shot-HDR-Imaging-with-Multi-scale-CNN
 
 We provide MatCaffe and PyTorch versions and data for our paper:
 
