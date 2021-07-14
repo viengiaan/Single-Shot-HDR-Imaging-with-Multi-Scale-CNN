@@ -32,7 +32,7 @@ image_names{12} = 'C42.mat';
 
 patch_size = 32;
 
-%% PREVIOUS WORKS
+%% Proposed Algorithm
 folder = 'Previous_Rad'; % USE THIS FOR COMPARISIONS (net_93.pth)
 
 tp = strcat('test_data/Results/', folder);
