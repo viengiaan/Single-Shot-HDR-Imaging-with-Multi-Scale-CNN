@@ -4,13 +4,18 @@ We provide MatCaffe and PyTorch versions and data for our paper:
 
 An Gia Vien and Chul Lee, “Single-shot high dynamic range imaging via multiscale convolutional neural network,” accepted for publication in IEEE Access, May 2021.
 
+# Prerequisites:
++ Python 3.xxx
++ Matlab 2020a
+
 # MatCaffe version
+Including:
 + Network details (prototxt file)
 + Testing file (test_main.m)
 + Testing images ("Test_imgs" folder including: input and ground-truth)
 + HDR metrics (HDR-VDP, pu-PSNR, log-PSNR)
 
-Note that: before running "test_main.m", installing caffe (matcaffe) and setting path for HDR metrics.
+> Note: before running "test_main.m", installing caffe (MatCaffe) and setting path for HDR metrics.
 
 Requirements:
 + Download network weights from: https://drive.google.com/file/d/1lVmEQ-WZqjUq8xQSh4vqqvEseiCbsYLY/view?usp=sharing 
@@ -18,7 +23,10 @@ Requirements:
 + Download caffe library from: https://drive.google.com/file/d/1XNSGGAN0pTaY1kdxYxnQVSHMrLD2uT5p/view?usp=sharing
 
 # PyTorch version
-In preparing
+> (1) Running "Generating_test_images.py" to produce test outputs
+> (2) Running "MAIN_TEST.m" to evaluate with HDR metrics
+
+> Note: setting path for HDR metrics is the same with MatCaffe version
 
 # Data (Training set & Testing set)
 In preparing
