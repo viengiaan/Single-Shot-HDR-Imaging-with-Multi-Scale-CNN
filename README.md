@@ -3,7 +3,8 @@
 We provide MatCaffe and PyTorch versions and data for our paper.
 
 # Prerequisites:
-+ Python 3.xxx
++ Python 3.8
++ Pytorch 1.8.1
 + Matlab 2020a
 
 # MatCaffe version
