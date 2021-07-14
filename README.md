@@ -16,7 +16,7 @@ Including:
 > Note: before running "test_main.m", installing caffe (MatCaffe) and setting path for HDR metrics.
 
 Requirements:
-+ Download network weights from: https://drive.google.com/file/d/1AZvN7zor7pjujbly4D0GMURejXJzO7m0/view?usp=sharing
++ Download network weight from: https://drive.google.com/file/d/1AZvN7zor7pjujbly4D0GMURejXJzO7m0/view?usp=sharing
 + Download HDR-VDP metric from: https://drive.google.com/file/d/18nvNi4NEwBDPiIJEM-DMwChRfViID0gy/view?usp=sharing. And extract to the IQAs folder.
 + Download caffe library from: https://drive.google.com/file/d/1XNSGGAN0pTaY1kdxYxnQVSHMrLD2uT5p/view?usp=sharing
 
@@ -25,7 +25,7 @@ Requirements:
 + Then running "MAIN_TEST.m" to evaluate with HDR metrics
 
 Requirement:
-+ Download network weights from: https://drive.google.com/file/d/1pABE5JPl9HfARtxwA-pBW3uJ6E4YMFuF/view?usp=sharing
++ Download network weight from: https://drive.google.com/file/d/1pABE5JPl9HfARtxwA-pBW3uJ6E4YMFuF/view?usp=sharing
 
 > Note: setting path for HDR metrics is the same with MatCaffe version
 
