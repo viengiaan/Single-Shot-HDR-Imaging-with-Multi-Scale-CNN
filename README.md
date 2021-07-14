@@ -30,7 +30,7 @@ Requirement:
 
 > Note: setting path for HDR metrics is the same with MatCaffe version
 
-# Data (Training set & Testing set)
+# Training Data
 In preparing
 
 Citing Single-Shot HDR Imaging with MSCNN
