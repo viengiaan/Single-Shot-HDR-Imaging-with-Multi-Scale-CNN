@@ -23,8 +23,8 @@ Requirements:
 + Download caffe library from: https://drive.google.com/file/d/1XNSGGAN0pTaY1kdxYxnQVSHMrLD2uT5p/view?usp=sharing
 
 # PyTorch version
-> (1) Running "Generating_test_images.py" to produce test outputs
-> (2) Running "MAIN_TEST.m" to evaluate with HDR metrics
++ Running "Generating_test_images.py" to produce test outputs
++ Then running "MAIN_TEST.m" to evaluate with HDR metrics
 
 > Note: setting path for HDR metrics is the same with MatCaffe version
 
