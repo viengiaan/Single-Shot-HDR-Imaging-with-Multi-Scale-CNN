@@ -1,8 +1,6 @@
 # Single-Shot-HDR-Imaging-with-MSCNN
 
-We provide MatCaffe and PyTorch versions and data for our paper:
-
-An Gia Vien and Chul Lee, “Single-shot high dynamic range imaging via multiscale convolutional neural network,” accepted for publication in IEEE Access, May 2021.
+We provide MatCaffe and PyTorch versions and data for our paper.
 
 # Prerequisites:
 + Python 3.xxx
@@ -30,3 +28,19 @@ Requirements:
 
 # Data (Training set & Testing set)
 In preparing
+
+Citing Single-Shot HDR Imaging with MSCNN
+-------------
+If you find our work useful in your research, please consider citing:
+
+    @ARTICLE{Vien_2021,
+      author={Vien, An Gia and Lee, Chul},
+      journal={IEEE Access}, 
+      title={Single-Shot High Dynamic Range Imaging via Multiscale Convolutional Neural Network}, 
+      year={2021},
+      volume={9},
+      number={},
+      pages={70369-70381},
+      doi={10.1109/ACCESS.2021.3078457}
+     }
+
