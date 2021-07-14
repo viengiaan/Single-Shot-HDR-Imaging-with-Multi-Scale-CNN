@@ -8,11 +8,7 @@ We provide MatCaffe and PyTorch versions and data for our paper.
 + Matlab 2020a
 
 # MatCaffe version
-Including:
-+ Network details (prototxt file)
-+ Testing file (test_main.m)
-+ Testing images ("Test_imgs" folder including: input and ground-truth)
-+ HDR metrics (HDR-VDP, pu-PSNR, log-PSNR)
++ Running "test_main.m"
 
 > Note: before running "test_main.m", installing caffe (MatCaffe) and setting path for HDR metrics.
 
