@@ -8,6 +8,7 @@ We provide MatCaffe and PyTorch versions and data for our paper.
 + Matlab 2020a
 
 # MatCaffe version
+For testing:
 + Running "test_main.m"
 
 > Note: before running "test_main.m", installing caffe (MatCaffe) and setting path for HDR metrics.
@@ -18,6 +19,7 @@ Requirements:
 + Download caffe library from: https://drive.google.com/file/d/1XNSGGAN0pTaY1kdxYxnQVSHMrLD2uT5p/view?usp=sharing
 
 # PyTorch version
+For testing:
 + Running "Generating_test_images.py" to produce test outputs
 + Then running "MAIN_TEST.m" to evaluate with HDR metrics
 
