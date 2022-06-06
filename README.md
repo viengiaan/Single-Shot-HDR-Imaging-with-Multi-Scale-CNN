@@ -14,9 +14,9 @@ For testing:
 > Note: before running "test_main.m", installing caffe (MatCaffe) and setting path for HDR metrics.
 
 Requirements:
-+ Download network weight from: https://drive.google.com/file/d/1AZvN7zor7pjujbly4D0GMURejXJzO7m0/view?usp=sharing
-+ Download HDR-VDP metric from: https://drive.google.com/file/d/18nvNi4NEwBDPiIJEM-DMwChRfViID0gy/view?usp=sharing. And extract to the IQAs folder.
-+ Download caffe library from: https://drive.google.com/file/d/1XNSGGAN0pTaY1kdxYxnQVSHMrLD2uT5p/view?usp=sharing
++ Download network weight from: [https://drive.google.com/file/d/1AZvN7zor7pjujbly4D0GMURejXJzO7m0/view?usp=sharing](https://drive.google.com/file/d/1zwiCRqNwFErDXMJUVvdD0qEChSyQqYKj/view?usp=sharing)
++ Download HDR-VDP metric from: [https://drive.google.com/file/d/18nvNi4NEwBDPiIJEM-DMwChRfViID0gy/view?usp=sharing](https://drive.google.com/file/d/1lys4n1zjUcNFr4qAGv_m_TvWr8UAO-6x/view?usp=sharing). And extract to the IQAs folder.
++ Download caffe library from: [https://drive.google.com/file/d/1XNSGGAN0pTaY1kdxYxnQVSHMrLD2uT5p/view?usp=sharing](https://drive.google.com/file/d/18DR4TXJwpmd9tbXfLJnq7DdlKebDbLUM/view?usp=sharing)
 
 # PyTorch version
 For testing:
@@ -24,7 +24,7 @@ For testing:
 + Then running "MAIN_TEST.m" to evaluate with HDR metrics
 
 Requirement:
-+ Download network weight from: https://drive.google.com/file/d/1pABE5JPl9HfARtxwA-pBW3uJ6E4YMFuF/view?usp=sharing
++ Download network weight from: [https://drive.google.com/file/d/1pABE5JPl9HfARtxwA-pBW3uJ6E4YMFuF/view?usp=sharing](https://drive.google.com/file/d/1f05qWnUdeqTuXp_4G4950i2UNZDELtM6/view?usp=sharing)
 
 > Note: setting path for HDR metrics is the same with MatCaffe version
 
